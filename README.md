@@ -1,6 +1,13 @@
 # ![sphinx_tamer](Logo.png)
 Python library for easy parsing of Sphinx documentation
 
+## Installation
+[![PyPI version](https://badge.fury.io/py/sphinx_tamer.svg)](https://badge.fury.io/py/sphinx_tamer)
+
+    sudo pip3 install sphinx_tamer
+
+![CI Status](https://github.com/DLu/sphinx_tamer/actions/workflows/main.yaml/badge.svg)
+
 
 ## Wrapper for Sphinx
 In an ideal world, manually parsing a Sphinx reStructuredText document might look something like
